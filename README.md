@@ -13,6 +13,3 @@
    funtion add(a,b){  return c=a+b;}
    
    ```function add(a,b){}```
-| column | column | column | 
-|:-------|-------:|:------:|
-|   a    |   b    |   c    |
