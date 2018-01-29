@@ -5,4 +5,4 @@
 **************************************
 
 >Project detail
-<https://google.com> "Go google"
+<https://google.com> 
