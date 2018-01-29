@@ -13,6 +13,6 @@
    funtion add(a,b){  return c=a+b;}
    
    ```function add(a,b){}```
-*italic****************
+*italic* ***************
 **bold**------
 ***italic bold***
