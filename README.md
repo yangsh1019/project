@@ -1,4 +1,4 @@
 # project
 > Travel Diary
   * test
-  * test
+    * test
