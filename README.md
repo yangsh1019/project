@@ -22,3 +22,8 @@ Header 1 | Header 2
 --------- | ---------
 Content 1 | Content 3
 Content 2 | Content 4
+
+Header1 | Header2 
+-------  --------
+Content1 | Content2
+
